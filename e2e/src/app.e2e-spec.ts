@@ -10,7 +10,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', async () => {
     await page.navigateTo();
-    expect(await page.getTitleText()).toEqual('DemoShopBridge app is running!');
+    expect(await page.getTitleText()).toEqual('ShopBridge app is running!');
   });
 
   afterEach(async () => {

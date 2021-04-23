@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "productName": "pencil",
+      "price": "6"
+    },
+    {
+      "productId": "2",
+      "productName": "Pen",
+      "price": "5"
+    },
+    {
+      "productId": "3",
+      "productName": "Eraser",
+      "price": "2"
+    },
+    {
+      "productId": "4",
+      "productName": "Book",
+      "price": "10"
+    },
+    {
+      "productId": "5",
+      "productName": "Scale",
+      "price": "3"
+    }
+  ]
+}
